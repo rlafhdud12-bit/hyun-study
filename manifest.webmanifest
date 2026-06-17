@@ -1,0 +1,16 @@
+{
+  "name": "현우현준현이 공부노트",
+  "short_name": "현우현준현이",
+  "description": "초등 1~6학년 개념·발견·게임·퀴즈·복습 학습 놀이터",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff9f0",
+  "theme_color": "#ff9f43",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" },
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ]
+}
